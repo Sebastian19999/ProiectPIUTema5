@@ -1,0 +1,4 @@
+1;Opel;Insigna;negru;2010;Popescu Ion;Vasilescu Alexandru;16.04.2016;8190;aer conditionat , cutie de viteze automata , faruri cu lupa , tapiterie din piele
+2;Lamborghini;Centenario;verde;2016;Miriapod Dan;Popescu Ion;20.07.2018;240658.23;ABS, airbaguri laterale, CruiseControl, Conectivitate Bluetooth, Proiectoare Ceata
+3;Audi;TT;rosu;2014;Vladivostok Vlad;Tica Marius;30.03.2020;24029;aer conditionat , cutie de viteze automata , faruri cu lupa , tapiterie din piele
+4;Ford;Focus;visiniu;2002;Lica Maria;Vasilescu Vasile;16.12.2019;3120;aer conditionat , cutie de viteze automata , faruri cu lupa , tapiterie din piele
